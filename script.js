@@ -5,3 +5,4 @@ function addToCart() {
   document.getElementById("cart-count").textContent = cartCount;
   alert("Item added to cart!");
 }
+
